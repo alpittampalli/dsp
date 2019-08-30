@@ -54,6 +54,7 @@ I installed Python 3 because it was the recommended version.
 In the Terminal:
 
 `python3 --version`
+
 3.7.3
 
  
