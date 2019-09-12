@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian statistics begins with subjective probabiliites based on some prior belief. This is controversial, because it means two different people with different worldviews may come up with completely different answers. On the other hand, frequentist stats is based on purely objective probabilities.
 
 ---
 
